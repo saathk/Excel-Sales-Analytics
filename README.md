@@ -3,13 +3,21 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Customer Performance Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/Customerperformancereport.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales targets](https://github.com/saathk/Excel-Sales-Analytics/blob/main/mkt%20perf%20vs%20target.pdf)_
 
-   **3.** Create a _[india sales report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/india_sales.pdf)_
+   **3.** Create a _[India Sales Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/india_sales.pdf)_
 
-    **4.** Create a _[Division Level report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/DivisionLevelReport.pdf)_
+    **4.** Create a _[Division Level Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/DivisionLevelReport.pdf)_
+
+   **5.** Create a _[New Products Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/New%20Products%202021.pdf)_
+
+    **6.** Create a _[Top 10 Products Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_
+
+  **7.** Create a _[Top 5 & Bottom 5 Products Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/Top5%26Bottom5products.pdf)_
+
+    **8.** Create a _[Top 5 Countries Report](https://github.com/saathk/Excel-Sales-Analytics/blob/main/top5Countries.pdf)
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
